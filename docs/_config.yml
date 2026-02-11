@@ -1,0 +1,25 @@
+title: Cloza Privacy Policy
+description: Privacy Policy for Cloza - AI-powered fashion coordination app
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+baseurl: ""
+url: ""
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Include files
+include:
+  - _config.yml
