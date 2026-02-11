@@ -1,6 +1,6 @@
-# Cloza Privacy Policy
+# CLOZA Privacy Policy
 
-This repository contains the Privacy Policy for **Cloza**, an AI-powered fashion coordination application.
+This repository contains the Privacy Policy for **CLOZA**, an AI-powered fashion coordination application.
 
 ## 🌐 Available Languages
 
@@ -14,9 +14,9 @@ The privacy policy is published on GitHub Pages:
 
 *(Replace with your actual GitHub Pages URL after publishing)*
 
-## 📝 About Cloza
+## 📝 About CLOZA
 
-Cloza is a fashion coordination app that provides:
+CLOZA is a fashion coordination app that provides:
 - AI-powered outfit suggestions
 - Virtual closet management
 - Virtual try-on features

@@ -1,4 +1,4 @@
-# Cloza Privacy Policy
+# CLOZA Privacy Policy
 
 Last Updated: February 11, 2026
 
